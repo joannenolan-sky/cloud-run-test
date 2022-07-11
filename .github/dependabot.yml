@@ -1,15 +1,7 @@
 version: 2  # shows it is using the github version of dependabot
 updates:
-  - package-ecosystem: "docker"
-    directory: "/"
-    schedule:
-      interval: "monthly"
-    open-pull-requests-limit: 1
-    pull-request-branch-name:
-      separator: "-"
 
-
-  - package-ecosystem: "gradle"
+  - package-ecosystem: "mvn"
     directory: "/"
     schedule:
       interval: "monthly"
