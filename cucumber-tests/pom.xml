@@ -19,7 +19,7 @@
 		<cucumber.version>4.7.1</cucumber.version>
 		<httpcore.version>4.4.5</httpcore.version>
 		<httpclient.version>4.5.13</httpclient.version>
-		<jackson.version>2.12.6.1</jackson.version>
+		<jackson.version>2.13.4.1</jackson.version>
 	</properties>
 
 	<dependencies>
